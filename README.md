@@ -1,5 +1,5 @@
 # Hi 👋
-#### I am Akram, and I am a software developer.
+#### I am Akram, and I am a student in software development.
 #### I work in multiple languages per project, but mainly in Python
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,py&perline=6)](https://skillicons.dev)
