@@ -9,7 +9,7 @@
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,py&perline=6)](https://skillicons.dev)
 ### FrameWorks
-[![My Skills](https://skillicons.dev/icons?i=docker,electron,express,fastapi,opencv&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=electron,express,fastapi,opencv&perline=6)](https://skillicons.dev)
 ### Software
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,cloudflare,docker,postgres&perline=6)](https://skillicons.dev)
 
